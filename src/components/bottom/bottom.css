@@ -1,0 +1,17 @@
+.bottom {
+    width: 90% ;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+.bottom_nearby {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap:wrap;
+}
+.bottom_name {
+    padding: 5px;
+    margin-bottom: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}

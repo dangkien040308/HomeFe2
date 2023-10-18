@@ -1,0 +1,12 @@
+.Top {
+   background-image: url('1.jpg');
+   object-fit: cover;
+   background-repeat: no-repeat;
+   background-size: cover;
+   margin: 0;
+   height: 100vh;
+}
+.wrap {
+    width: 90%;
+    margin: 0 auto;
+}
